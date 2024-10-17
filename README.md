@@ -1,6 +1,7 @@
 # Nimap_project
 # Django Python Machine Test
 # project structure
+
 machine_test/
 ├── requirements.txt
 ├── manage.py
