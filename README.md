@@ -3,14 +3,21 @@
 # project structure
 
 machine_test/
+
 ├── requirements.txt
+
 ├── manage.py
-├── core/
+
+├── core
+
 │   ├── __init__.py
+
 │   ├── settings.py
 │   ├── urls.py
+
 │   └── wsgi.py
 └── api/
+
     ├── __init__.py
     ├── models.py
     ├── serializers.py
