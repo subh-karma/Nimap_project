@@ -1,6 +1,21 @@
 # Nimap_project
 # Django Python Machine Test
-
+# project structure
+machine_test/
+├── requirements.txt
+├── manage.py
+├── core/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+└── api/
+    ├── __init__.py
+    ├── models.py
+    ├── serializers.py
+    ├── views.py
+    ├── urls.py
+    └── permissions.py
 ## Overview
 
 Welcome to the Django Python Machine Test! This project is all about creating a REST API application to manage three important entities: **Users**, **Clients**, and **Projects**. With this system, you can easily register clients, manage their information, and assign projects to users—all through a clean and intuitive interface.
