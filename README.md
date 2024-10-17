@@ -13,6 +13,7 @@ machine_test/
 │   ├── __init__.py
 
 │   ├── settings.py
+
 │   ├── urls.py
 
 │   └── wsgi.py
